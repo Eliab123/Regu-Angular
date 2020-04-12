@@ -1,0 +1,13 @@
+.container{
+    position: relative;
+    right: 25%;
+    
+}
+.card-header{
+    box-align: center;
+    position: relative;
+}
+.card{
+    background: rgb(13, 13, 14);opacity: 0.95;
+    box-shadow: -20px 25px #ddbd06;
+}
